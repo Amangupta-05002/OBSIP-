@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(45deg, #6666AA, #AA6666);
+    margin: 10%;
+    color: white;
+
+}
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px rgba(255, 255, 255, 0.807);
+    font-size: 7vh;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#tribute-data{
+    background-color: rgba(125, 46, 139, 0.151);
+    box-shadow: 20px 20px 20px #c3bec334;
+    font-family: Georgia;
+    padding: 20px 20px;
+    margin: 11px;
+    margin-top: 50px;
+
+}
+h1.title-a{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+#tribute-link{
+    text-decoration: none;
+    color: rgb(251, 230, 230);
+}
